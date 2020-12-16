@@ -1,1 +1,1 @@
-# bot_a_fazenda
+# Robô em python para votação da A Fazenda
